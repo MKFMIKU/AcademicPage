@@ -215,20 +215,24 @@ defaultContentLanguageInSubdir = false
   #   Full list: https://jpswalsh.github.io/academicons/
 
   [[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:kfm@clfstudio.com"
-
-  [[params.social]]
     icon = "home"
     icon_pack = "fa"
-    link = "http://kfm.cat/"
+    link = "http://www.kfm.cat/"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
     link = "http://github.com/mkfmiku"
 
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "http://www.linkedin.com/in/mkfmiku"
+
+  [[params.social]]
+    icon = "envelope"
+    icon_pack = "fa"
+    link = "mailto:kfm@clfstudio.com"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -245,13 +249,8 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "#publications"
   weight = 2
-
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
 
 [[menu.main]]
   name = "Projects"
