@@ -62,7 +62,7 @@ defaultContentLanguageInSubdir = false
   email = "kfm@clfstudio.com"
 #  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
 #  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-#  phone = "888 888 88 88"
+  phone = "130 6512 3348"
 #  skype = "echo123"
 #  telegram = ""
 
@@ -253,6 +253,11 @@ defaultContentLanguageInSubdir = false
   weight = 2
 
 [[menu.main]]
+  name = "Experiences"
+  url = "#experiences"
+  weight = 3
+
+[[menu.main]]
   name = "Projects"
   url = "#projects"
   weight = 4
@@ -260,7 +265,7 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 5
 
 # Taxonomies.
 [taxonomies]
